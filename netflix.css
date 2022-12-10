@@ -1,0 +1,185 @@
+body {
+    background-color: black;
+    margin: auto;
+}
+
+#header {
+    border: solid white;
+    height: 600px;
+    width: 100%;
+    background-image: url(https://i.ibb.co/0rgq8D6/IN-en-20221121-popsignuptwoweeks-perspective-alpha-website-medium.jpg);
+}
+
+#logo {
+    height: 15%;
+    width: 12%;
+    margin-left: 40px;
+
+}
+
+#logo>img {
+    width: 100%;
+    height: 100%;
+}
+
+#LangButton {
+    width: 60%;
+    color: white;
+    border: solid white;
+    margin-left: 1000px;
+    margin-right: 10px;
+}
+
+#SignIn {
+    width: 10%;
+    color: white;
+}
+
+#p1 {
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 7%;
+}
+
+#p2 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+#p3 {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+#search {
+    height: 100%;
+    width: 70%;
+    margin-left: 35%;
+}
+
+.button {
+    background-color: red;
+    border: 2px solid red;
+    color: white;
+    height: 100%;
+    width: 20%;
+}
+
+.card-title {
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.card-text {
+    font-size: 25px;
+
+}
+
+#line {
+    border: 2px solid grey;
+}
+
+#tile {
+    background-color: black;
+    color: white;
+    width: 98%;
+    margin-left: 1%;
+    height: 480px;
+    padding-top: 50px;
+
+}
+
+.LEDimage {
+    width: 500px;
+    height: 100%;
+
+}
+
+#video1 {
+    height: 39%;
+    left: 78%;
+    position: relative;
+    transform: translate(-50%, -53%);
+    width: 100%;
+    margin-top: -17%;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+#video2 {
+    height: 31%;
+    left: 47%;
+    position: relative;
+    transform: translate(-53%, -128%);
+    width: 53%;
+    margin-top: -31%;
+    overflow: hidden;
+    object-fit: contain;
+
+}
+
+#question {
+    height: 600px;
+    width: 100%;
+    margin-top: 25px;
+    background-color: black;
+}
+
+#FAQ {
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+    height: 700px;
+}
+
+#F1 {
+    text-align: center;
+    top: 50px;
+    font-size: 50px;
+}
+
+#button {
+    width: 75%;
+    height: 60px;
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 26px;
+    text-align: left;
+    margin-left: 10%;
+}
+
+#plus {
+    font-size: 35px;
+    font-weight: bold;
+    float: right;
+}
+
+#mailID {
+    margin-top: 30px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+#footer {
+    height: 400px;
+    width: 100%;
+    margin-top: 25px;
+    background-color: black;
+    color: rgb(233, 227, 227);
+}
+
+#foot {
+    height: 300px;
+    width: 70%;
+    margin-left: 15%;
+    padding-top: 4%;
+    font-size: medium;
+    font-weight: 1px;
+}
